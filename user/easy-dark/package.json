@@ -1,13 +1,13 @@
 {
     "title": "Easy Dark",
     "name": "easy-dark",
-    "description": "Dark theme that's just easy on your eyes",
+    "description": "Forked from https://github.com/Brackets-Themes/EasyDark!",
     "version": "2.0.2",
     "author": "Miguel Castillo <mahchagnu@gmail.com>",
-    "homepage": "https://github.com/Brackets-Themes/EasyDark",
+    "homepage": "https://github.com/ben-bradley/EasyDark",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Brackets-Themes/EasyDark.git"
+        "url": "git://github.com/ben-bradley/EasyDark.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
