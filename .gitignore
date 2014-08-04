@@ -1,6 +1,7 @@
 # ignore everything
-*
+/user/brackets-beautify/thirdparty/js-beautify*
+/user/*/*
 
 # except these files
-!.gitignore
-!package.json
+!/.gitignore
+!/user/*/package.json
