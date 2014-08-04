@@ -1,8 +1,6 @@
 # ignore everything
-/**/.git
 *
 
 # except these files
 !.gitignore
-!*/package.json
-
+!package.json
